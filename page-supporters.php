@@ -37,36 +37,40 @@ $context['partnerImages'] = [ ['src'=>'../wp-content/themes/cd-theme/static/img/
                                      'id'=>'6','linkedin'=>'https://www.linkedin.com/company/the-chq-building',
                                      'twitter'=>'https://twitter.com/chqdublin'],
 
+                             ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/bank-of-ireland.png', 'name'=>'Bank of Ireland', 'jobDescription'=>'Bank of Ireland are growth partners across the island of Ireland, they are committed to supporting and starting Dojos around the country through their local based branch network',
+                                     'id'=>'7','linkedin'=>'https://www.linkedin.com/company/bank-of-ireland',
+                                     'twitter'=>'https://twitter.com/bankofireland'],   
+
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/deloitte.png', 'name'=>'Deloitte', 'jobDescription'=>'Deloitte complete the annual audit of CoderDojo Foundation financial accounts pro bono.',
-                                     'id'=>'7','linkedin'=>'https://www.linkedin.com/company/deloitte',
+                                     'id'=>'8','linkedin'=>'https://www.linkedin.com/company/deloitte',
                                      'twitter'=>'https://twitter.com/deloitteireland'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/zendesk.png', 'name'=>'Zendesk', 'jobDescription'=>'Zendesk donated web-based customer service software to help us communicate with our global community.',
-                                     'id'=>'8','linkedin'=>'https://www.linkedin.com/company/zendesk',
+                                     'id'=>'9','linkedin'=>'https://www.linkedin.com/company/zendesk',
                                      'twitter'=>'https://twitter.com/Zendesk'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/logmein.png', 'name'=>'LogMeIn', 'jobDescription'=>'LogMeIn donated web conferencing licenses to enable the team to communicate with our global community.',
-                                     'id'=>'9','linkedin'=>'https://www.linkedin.com/company/logmein',
+                                     'id'=>'10','linkedin'=>'https://www.linkedin.com/company/logmein',
                                      'twitter'=>'https://twitter.com/logmein'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/15five.png', 'name'=>'15five', 'jobDescription'=>'15Five is providing team engagement software for the CoderDojo Foundation aligning with their core value to ‘Always be Learning and Growing’.',
-                                     'id'=>'10','linkedin'=>'https://www.linkedin.com/company/15five',
+                                     'id'=>'11','linkedin'=>'https://www.linkedin.com/company/15five',
                                      'twitter'=>'https://twitter.com/15Five'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/new-relic.png', 'name'=>'New Relic', 'jobDescription'=>'Provided services for monitoring website application performance',
-                                     'id'=>'11','linkedin'=>'https://www.linkedin.com/company/new-relic-inc-/',
+                                     'id'=>'12','linkedin'=>'https://www.linkedin.com/company/new-relic-inc-/',
                                      'twitter'=>'https://twitter.com/newrelic'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/websummit.png', 'name'=>'Web Summit', 'jobDescription'=>'Offer CoderDojo space at their annual tech conference in Dublin.',
-                                     'id'=>'12','linkedin'=>'https://www.linkedin.com/company/web-summit',
+                                     'id'=>'13','linkedin'=>'https://www.linkedin.com/company/web-summit',
                                      'twitter'=>'https://twitter.com/WebSummitHQ'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/intercom.png', 'name'=>'Intercom', 'jobDescription'=>'Intercom has fundamentally changed how we interact with the community as it allows us to provide real time support to parents, mentors and Champions who are signed into Zen.',
-                                     'id'=>'13','linkedin'=>'https://www.linkedin.com/company/intercom',
+                                     'id'=>'14','linkedin'=>'https://www.linkedin.com/company/intercom',
                                      'twitter'=>'https://twitter.com/intercom'],
 
                              ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/edgescan.png', 'name'=>'EdgeScan', 'jobDescription'=>'EdgeScan have provided a security audit for the community platforms technical infrastructure.',
-                                     'id'=>'14','linkedin'=>'https://www.linkedin.com/company/edgescan-com',
+                                     'id'=>'15','linkedin'=>'https://www.linkedin.com/company/edgescan-com',
                                      'twitter'=>'https://twitter.com/edgescan'],
 
                             ];
@@ -74,35 +78,35 @@ $context['partnerImages'] = [ ['src'=>'../wp-content/themes/cd-theme/static/img/
 $context['allianceImages'] = [
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/ashoka.png', 'name'=>'Ashoka', 'jobDescription'=>'Global network of social entrepreneurs.',
-                                      'id'=>'14','linkedin'=>'https://www.linkedin.com/company/ashoka',
+                                      'id'=>'16','linkedin'=>'https://www.linkedin.com/company/ashoka',
                                       'twitter'=>'https://twitter.com/ashokaireland'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/appsforgood.png', 'name'=>'Apps For Good', 'jobDescription'=>'An open-source technology education movement working with schools.',
-                                      'id'=>'15','linkedin'=>'https://www.linkedin.com/company/cdi-apps-for-good',
+                                      'id'=>'17','linkedin'=>'https://www.linkedin.com/company/cdi-apps-for-good',
                                       'twitter'=>'https://twitter.com/AppsforGoodCDI'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/code-club.png', 'name'=>'Code Club', 'jobDescription'=>'Coding clubs for youth aged between 9 and 11.',
-                                      'id'=>'16','linkedin'=>'https://www.linkedin.com/company/code-club',
+                                      'id'=>'18','linkedin'=>'https://www.linkedin.com/company/code-club',
                                       'twitter'=>'https://twitter.com/CodeClub'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/devoxx.png', 'name'=>'Devoxx', 'jobDescription'=>'Organise events to expose young people to technology.',
-                                      'id'=>'17','linkedin'=>'https://www.linkedin.com/company/the-java-community---devoxx',
+                                      'id'=>'19','linkedin'=>'https://www.linkedin.com/company/the-java-community---devoxx',
                                       'twitter'=>'https://twitter.com/devoxx'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/all-you-need-is-code.png', 'name'=>'All You Need Is Code', 'jobDescription'=>'The European Coding Initiative promotes coding and computer science across Europe, both within schools and beyond.',
-                                      'id'=>'18','linkedin'=>'https://www.linkedin.com/company/european-commission?trk=top_nav_home',
+                                      'id'=>'20','linkedin'=>'https://www.linkedin.com/company/european-commission?trk=top_nav_home',
                                       'twitter'=>'https://twitter.com/NeedCodeEU'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/code-week.png', 'name'=>'Code Week', 'jobDescription'=>'Europe Code Week is a grass-root movement run by volunteers who promote coding in their countries as Code Week Ambassadors.',
-                                      'id'=>'19','linkedin'=>'https://www.linkedin.com/company/european-commission?trk=top_nav_home',
+                                      'id'=>'21','linkedin'=>'https://www.linkedin.com/company/european-commission?trk=top_nav_home',
                                       'twitter'=>'https://twitter.com/codeweekEU'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/tech-point.png', 'name'=>'Tech Point Foundation', 'jobDescription'=>'TPF4Y are evangelising CoderDojo through their US2020 program with the intention of encouraging and supporting the growth of more Dojos within the State of Indiana.',
-                                      'id'=>'20','linkedin'=>'https://twitter.com/techpointyouth',
+                                      'id'=>'22','linkedin'=>'https://twitter.com/techpointyouth',
                                       'twitter'=>'https://www.linkedin.com/company/techpoint-foundation'],
 
                               ['src'=>'../wp-content/themes/cd-theme/static/img/supporters/fogarty.png', 'name'=>'Fogarty Foundation', 'jobDescription'=>'As part of there intiatives the act as the regional body CoderDojo WA based in Western Australian where a network of community coding clubs (Dojos) build digital literacy skills amongst young people aged 7-17',
-                                      'id'=>'21','linkedin'=>'https://www.linkedin.com/company/fogarty-foundation',
+                                      'id'=>'23','linkedin'=>'https://www.linkedin.com/company/fogarty-foundation',
                                       'twitter'=>'https://twitter.com/anniefogartyff'],
                             ];
 
